@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SoloWPM23/SoloWPM23/main/Banner.png" width="100%" alt="Solo Manurung Banner" />
+  <img src="https://github.com/SoloWPM23/SoloWPM23/blob/35721d340a3bccfd81fd9529895919febd4f65a3/Banner.png" width="100%" alt="Solo Manurung Banner" />
 </div>
 
 ###
