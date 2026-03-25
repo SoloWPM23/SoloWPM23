@@ -1,6 +1,24 @@
 <div align="center">
   <img src="https://github.com/SoloWPM23/SoloWPM23/blob/35721d340a3bccfd81fd9529895919febd4f65a3/Banner.png" width="100%" alt="Solo Manurung Banner" />
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/solowpm23/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Solo%20Manurung-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/SoloWPM23" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-SoloWPM23-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="mailto:solowandika490@gmail.com">
+    <img src="https://img.shields.io/badge/Email-solowandika490%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ###
 
@@ -21,17 +39,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="60" alt="matplotlib logo" />
 </div>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/solowpm23/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="https://github.com/SoloWPM23" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" />
-  </a>
-</div>
+<br/>
 
 ###
 
