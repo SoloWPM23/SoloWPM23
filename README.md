@@ -49,12 +49,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoloWPM23&layout=compact&theme=dracula&hide_border=false&border_radius=5" height="150" alt="top languages" />
-</div>
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SoloWPM23/SoloWPM23/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SoloWPM23/SoloWPM23/output/pacman-contribution-graph.svg">
